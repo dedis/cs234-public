@@ -14,12 +14,10 @@ see the contracts named `1_Hello.sol`, `2_Quadratic_Voting.sol` and
 ## 1: Hello Contract
 
 This contract can be found in `contracts/1_Hello.sol`. This is just a simple contract that stores
-a single number that anyone can modify. The first thing we will do is compile the contract. The compiler
-can be accessed via the second item of the left toolbar (looks like an S). With the contract open, there should be a button
-to compile it.
+a single number that anyone can modify. The first thing we will do is compile the contract. With the contract open, there should be a button to compile it. It looks like a green arrow pointing right. Alternatively, the left toolbar, there is an icon that looks like `S` which also allows you to compile the contract.
 
 After clicking on the button to compile, you can open the deployment tab by
-clicking on the third item on the same toolbar (it is right under the S-shaped
+clicking on the fourth item on the same toolbar (it is right under the S-shaped
 compiler icon). Here, you can select the `1_Hello.sol` contract, and then deploy
 it. This will deploy the contract in a sandbox so that we can interact with it.
 
@@ -32,7 +30,8 @@ these functions, and then look at how they are implemented in the contract.
 
 ## 2: Quadratic Voting
 
-This second contract is in `contracts/2_Quadratic_Voting.sol`. This one is a bit more complicated to implement,
+This second contract is in `contracts/2_Quadratic_Voting.sol`. 
+This one is a bit more complicated to implement,
 but the basic idea is simple. You have a collection of ice cream flavors you can vote
 for: `nothing`, `mint`, `chocolate`, and `vanilla`. Currently, `nothing` is in the lead with 2 votes.
 The other flavors have no votes so far. Your goal is to make your favorite flavor win, by giving
