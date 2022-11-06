@@ -98,7 +98,7 @@ on our deployed smart contract.
 
 In this second part (i.e., Solo Voting), you are going to work on your own to learn how to interact with Ethereum smart contracts. You will notice that you have to answer some questions at the end. You are going to submit a PDF document with your answers under this [Moodle assignment](https://moodle.epfl.ch/mod/assign/view.php?id=1183559). The instructions for this part can be found here:
 
-[Solo Voting Handout](https://github.com/dedis/cs234-public/blob/main/DAO/handout/handout.md)
+[Solo Voting Handout](https://github.com/dedis/cs234-public/blob/main/DAO/handout/solidity_hw.md)
 
 # Part 3: Interactive Voting
 
