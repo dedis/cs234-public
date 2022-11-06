@@ -9,7 +9,7 @@ contract.
 To interact with these contracts, we will be using a sandbox: [https://remix.ethereum.org](https://remix.ethereum.org/#version=soljson-v0.8.7+commit.e28d00a7.js&optimize=false&runs=200&gist=9ae094faf74fd94305596dd4db2277f1).
 Remix allows you to load a project from different sources. In case you do not
 see the contracts named `1_Hello.sol`, `2_Quadratic_Voting.sol` and
-`3_Multi_Voting.sol`, you can use the `Clone Git Repository` button next to Clone Git Repository and using the following as the git repository URL: https://github.com/dedis/cs234-public/. You will need to go one directory deeper by clicking on `DAO`.
+`3_Multi_Voting.sol`, you can use the `Clone Git Repository` button next to `Workspaces` and use the following as the git repository URL: https://github.com/dedis/cs234-public/. To follow the HW, you will need to go one directory level deeper by clicking on `DAO`.
 
 ## 1: Hello Contract
 
