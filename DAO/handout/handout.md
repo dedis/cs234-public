@@ -84,7 +84,7 @@ test networks in Metamask under `Settings > Advanced`):
 ### Getting Animal Tokens
 
 To vote on your favorite animal, you will need *animal tokens*.
-We have set up a form for you to tell us your public address on the Ropsten testnet
+We have set up a form for you to tell us your public address on the Goerli testnet
 so that we may issue you animal tokens:
 
 [Google Form](https://forms.gle/fntZcN3n4VYPAs4H9)
@@ -114,7 +114,7 @@ You will need to visit the website where the voting takes place:
 TBD
 
 You will need to give the website permission to use your Ethereum wallet through
-MetaMask. Make sure you are connected to the *Ropsten* network since that is the
+MetaMask. Make sure you are connected to the *Goerli* network since that is the
 testnet where the contract has been deployed, and where you will be interacting with other students.
 
 You will be given 9 animal tokens, and you can use those tokens to vote
