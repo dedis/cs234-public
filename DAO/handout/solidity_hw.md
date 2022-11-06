@@ -1,8 +1,8 @@
 # CS-234 Solidity Homework (Part 2)
 
-In the second part of this homework, you will work on a few Ethereum smart
+In Part 2, you will work on a few Ethereum smart
 contracts that are written in Solidity to learn the basics about interacting
-with smart contracts. For now, you are going to work individually. In the second
+with smart contracts. For now, you are going to work **individually**. In the second
 part of the homework, you will be interacting with your classmates on the same
 contract.
 
