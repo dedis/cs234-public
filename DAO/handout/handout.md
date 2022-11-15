@@ -4,7 +4,7 @@ header-includes: |
 
     \pagestyle{fancy}
     \fancyhf{}
-    \rhead{CS-234: Technologies for democratic society, Fall 2021}
+    \rhead{CS-234: Technologies for democratic society, Fall 2022}
     \lhead{DAO Homework}
 ---
 
@@ -111,7 +111,7 @@ up if you want your favorite animal to win instead!
 
 You will need to visit the website where the voting takes place:
 
-TBD
+[https://dedis.github.io/cs234-public/](https://dedis.github.io/cs234-public/)
 
 You will need to give the website permission to use your Ethereum wallet through
 MetaMask. Make sure you are connected to the *Goerli* network since that is the
