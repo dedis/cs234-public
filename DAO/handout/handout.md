@@ -68,8 +68,9 @@ distributes free ether.
 
 There are several faucets you can use. We suggest that you use one of the following:
 
-- [Faucet AllThatNode](https://www.allthatnode.com/faucet/ethereum.dsrv)
-- [Faucet EthDrop](https://ethdrop.dev/)
+- [Faucet 1](https://sepoliafaucet.com)
+- [Faucet 2](https://sepolia-faucet.pk910.de)
+- [Faucet List](https://faucetlink.to/sepolia)
 
 You will need to enter in your Ethereum wallet **public address** located in MetaMask
 when on the *Sepolia* network.
