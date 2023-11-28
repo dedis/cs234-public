@@ -76,7 +76,7 @@ To test your understanding of the homework, please answer the following question
    How many votes can you give to each of the three proposals if you use the
    strategy in (a)? (c) Could you vote more times if you had the same number of
    tokens but there were more than three proposals?
-3. What would be an approach to address the Sybil problem introduced in part 3?
+3. What would be an approach to address the Sybil problem introduced in section 3?
 
 ## 5: What to submit?
 
