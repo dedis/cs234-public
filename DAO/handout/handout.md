@@ -15,7 +15,7 @@ smart contract on Ethereum that contains a set of proposals which people can
 cast votes for using the *quadratic voting* method.
 
 The first part sets up the third part of this assignment by having
-you create a Goerli ETH address and submit it to a Google Form. 
+you create a Sepolia ETH address and submit it to a Google Form. 
 The second part has you interact with a smart contract in a sandbox.
 The third part involves the entire class where you will work with your 
 classmates to make your favorite proposal win.
@@ -38,7 +38,7 @@ entails by completing this homework.
 ## Part 1: Setup for Part 3
 
 This part sets up the third part of this assignment by having
-you create a Goerli ETH address and submit it to a Google Form.
+you create a Sepolia ETH address and submit it to a Google Form.
 
 ### Installing MetaMask
 
@@ -55,7 +55,7 @@ We will be giving you the tokens that you are going to use to vote on proposals,
 but to be able to transact with the contract, you need *ether* - the currency on
 the Ethereum blockchain. We will not be working on the Ethereum mainnet since
 transactions would be costly, and instead work on an Ethereum
-*testnet* called [__Goerli__](https://goerli.etherscan.io/).
+*testnet* called [__Sepolia__](https://sepolia.etherscan.io/).
 
 A testnet is an alternative blockchain following the same protocols as the mainnet but
 is to be used solely for testing purposes. Since the entire class will be working
@@ -72,11 +72,11 @@ There are several faucets you can use. We suggest that you use one of the follow
 - [Faucet EthDrop](https://ethdrop.dev/)
 
 You will need to enter in your Ethereum wallet **public address** located in MetaMask
-when on the *Goerli* network.
+when on the *Sepolia* network.
 
 ![](2.png)
 
-(In case you do not see the Goerli network, you will need to enable
+(In case you do not see the Sepolia network, you will need to enable
 test networks in Metamask under `Settings > Advanced`):
 
 ![](3.png)
@@ -84,7 +84,7 @@ test networks in Metamask under `Settings > Advanced`):
 ### Getting Animal Tokens
 
 To vote on your favorite animal, you will need *animal tokens*.
-We have set up a form for you to tell us your public address on the Goerli testnet
+We have set up a form for you to tell us your public address on the testnet
 so that we may issue you animal tokens:
 
 [Google Form](https://forms.gle/fntZcN3n4VYPAs4H9)
@@ -102,7 +102,7 @@ In this second part (i.e., Solo Voting), you are going to work on your own to le
 
 # Part 3: Interactive Voting
 
-In this third part, you are going to work together with your classmates to beat the voting contract we have deployed on the GoerliETH blockchain. Your goal (collectively) is to beat the proposal "Nothing" by making another animal win the poll :) In order to achieve this goal, you have to collaborate with each other to come up with a voting strategy. Therefore, it is crucial that you communicate with each other for this assignment.
+In this third part, you are going to work together with your classmates to beat the voting contract we have deployed on the SepoliaETH blockchain. Your goal (collectively) is to beat the proposal "Nothing" by making another animal win the poll :) In order to achieve this goal, you have to collaborate with each other to come up with a voting strategy. Therefore, it is crucial that you communicate with each other for this assignment.
 
 ![](1.png)
 
@@ -114,7 +114,7 @@ You will need to visit the website where the voting takes place:
 [https://dedis.github.io/cs234-public/](https://dedis.github.io/cs234-public/)
 
 You will need to give the website permission to use your Ethereum wallet through
-MetaMask. Make sure you are connected to the *Goerli* network since that is the
+MetaMask. Make sure you are connected to the *Sepolia* network since that is the
 testnet where the contract has been deployed, and where you will be interacting with other students.
 
 You will be given 9 animal tokens, and you can use those tokens to vote
