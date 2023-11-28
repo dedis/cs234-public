@@ -75,7 +75,7 @@ There are several faucets you can use. We suggest that you use one of the follow
 You will need to enter in your Ethereum wallet **public address** located in MetaMask
 when on the *Sepolia* network.
 
-![](2.png)
+![](2a.png)
 
 (In case you do not see the Sepolia network, you will need to enable
 test networks in Metamask under `Settings > Advanced`):
@@ -88,7 +88,7 @@ To vote on your favorite animal, you will need *animal tokens*.
 We have set up a form for you to tell us your public address on the testnet
 so that we may issue you animal tokens:
 
-[Google Form](https://forms.gle/fntZcN3n4VYPAs4H9)
+[Google Form](https://forms.gle/zSsjjifdFfMsa8xFA)
 
 You should use the *same* public address that you used in the previous
 step for the faucets. This way, your wallet contains ether
