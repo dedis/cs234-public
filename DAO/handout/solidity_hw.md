@@ -81,7 +81,7 @@ To test your understanding of the homework, please answer the following question
 ## 5: What to submit?
 
 You are going to upload __on Moodle__ a PDF document with your answers to the
-questions in part 4. Please carefully label your answers with the corresponding
+questions in Section 4. Please carefully label your answers with the corresponding
 question numbers (_e.g.,_ 2.a.). Please do not forget to put your name and
 SCIPER in the PDF. Your PDF file should be named as follows:
 __<YOUR_SCIPER>.pdf__.
