@@ -133,6 +133,6 @@ by yourself, instead, you will have to collaborate with the other students. Sinc
 a single contract deployed on the testnet, all of the students are interacting with the
 same state, so you can all influence the vote.
 
-You have multiple options for communication channels: (1) you can discuss in person before/after the class (or during the break) on Thursday, (2) you can use the exercise sessions for CS-234 (Thursdays 4-5pm and Fridays 8-10am) to meet in person in INR 113, (3) if you do not feel comfortable with in-person meetings, you can use the Zoom link that we use for lectures during the exercise sessions to have online discussions, (4) you can use the Moodle forum for this homework, (5) you can do whatever else works for you.
+You have multiple options for communication channels: (1) you can discuss in person before/after the class (or during the break), (2) you can use the exercise sessions for CS-234 to meet in person, (3) if you do not feel comfortable with in-person meetings, you can use the Zoom link that we use for lectures during the exercise sessions to have online discussions, (4) you can use the Moodle forum for this homework, (5) you can do whatever else works for you.
 
 Good luck!
