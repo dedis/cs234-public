@@ -88,7 +88,7 @@ To vote on your favorite animal, you will need *animal tokens*.
 We have set up a form for you to tell us your public address on the testnet
 so that we may issue you animal tokens:
 
-[Google Form](https://forms.gle/MrTPUiYLHwNXN9or5)
+[Google Form](https://forms.gle/HirYypFFoD9Maxxj6)
 
 You should use the *same* public address that you used in the previous
 step for the faucets. This way, your wallet contains ether
