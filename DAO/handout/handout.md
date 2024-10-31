@@ -70,6 +70,7 @@ There are several faucets you can use. We suggest that you use one of the follow
 
 - [Faucet 1](https://sepoliafaucet.com)
 - [Faucet 2](https://sepolia-faucet.pk910.de)
+- [Faucet 3](https://faucet.triangleplatform.com/ethereum/sepolia)
 - [Faucet List](https://faucetlink.to/sepolia)
 
 You will need to enter in your Ethereum wallet **public address** located in MetaMask
